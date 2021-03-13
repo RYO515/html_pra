@@ -1,8 +1,7 @@
-body {
-    color: skyblue;
-    font-size: 12px;
-    border: 1px solid pink;
+img {
+    float: right;
 }
-h1 {
-    border: inherit;
+
+h2 {
+    clear: right;
 }
