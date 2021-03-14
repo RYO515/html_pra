@@ -1,7 +1,8 @@
-img {
-    float: right;
+p {
+    background-color: pink;
+    font-size: 16px;
+    line-height: 3;
 }
-
-h2 {
-    clear: right;
+img {
+    vertical-align: bottom;
 }
