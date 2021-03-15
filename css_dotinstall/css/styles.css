@@ -1,8 +1,16 @@
-p {
-    background-color: pink;
-    font-size: 16px;
-    line-height: 3;
+.box1 {
+    background-color: red;
+    height: 100px;
+    width: 100px;
 }
-img {
-    vertical-align: bottom;
+.box2 {
+    background-color: yellow;
+    height: 50px;
+    width: 50px;
+    overflow: scroll;
+}
+.box3 {
+    background-color: green;
+    height: 100px;
+    width: 100px;
 }
