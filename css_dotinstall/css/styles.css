@@ -1,7 +1,12 @@
-img {
-    float: right;
+.btn {
+    width: 100px;
+    background: skyblue;
+    text-align: center;
+    padding: 4px;
+    color: white;
+    cursor: pointer;
 }
 
-h2 {
-    clear: right;
+.btn:hover {
+    opacity: 0.8;
 }
